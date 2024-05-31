@@ -1,0 +1,8 @@
+
+# Ignore the node_modules directory
+node_modules/
+
+# Optionally, you can ignore other files and directories too
+.DS_Store
+.env
+dist/
